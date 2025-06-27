@@ -27,7 +27,10 @@ https://github.com/user-attachments/assets/cd1287cc-e38c-4caf-be2e-50a27df161b9
 - flutter pub get
 - flutter pub run build_runner build
 - flutter run
-
+  
+## Download Pocket Task apk file
+- [pocket_task_app.apk.zip](https://github.com/user-attachments/files/20956824/pocket_task_app.apk.zip)
+  
 ## Getting Started
 - Tap the floating action button "+" to add a new task.
 - Type a title for the task and add the task content.
