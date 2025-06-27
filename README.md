@@ -1,4 +1,4 @@
-# Pocket-Tasks
+## Pocket-Tasks
 Pocket Tasks is a simple Flutter task management app built with hive local storage, clean architecture, and provider state management.
 ## Features
 - Add, edit, delete tasks
@@ -14,14 +14,14 @@ Pocket Tasks is a simple Flutter task management app built with hive local stora
 - **Business Logic**: providers/ with ChangeNotifier
 - **Data Layer**: Hive-backed model in data/models/
 
-### Prerequisites
+## Prerequisites
 - Flutter 3.24.3
 - Dart ^3.5.3
 
-### watch video demo here:
+## watch video demo here:
 https://github.com/user-attachments/assets/cd1287cc-e38c-4caf-be2e-50a27df161b9
 
-### Install & Run
+## Install & Run
 - git clone https://github.com/tonyogodson/pocket_tasks.git
 - cd pocket_tasks
 - flutter pub get
@@ -39,4 +39,4 @@ https://github.com/user-attachments/assets/cd1287cc-e38c-4caf-be2e-50a27df161b9
 - To sort tasks, tap the menu button at the top right corner of the home screen and choose sort type.
 - Toggle between All, Active and Completed tasks from the home screen
 
-##Also Check Widget tests files under "test"
+## Also Check Widget tests files under "test"
