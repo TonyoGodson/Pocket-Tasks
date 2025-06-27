@@ -14,8 +14,6 @@ Pocket Tasks is a simple Flutter task management app built with hive local stora
 - **Business Logic**: providers/ with ChangeNotifier
 - **Data Layer**: Hive-backed model in data/models/
 
-## Getting Started
-
 ### Prerequisites
 - Flutter 3.24.3
 - Dart ^3.5.3
@@ -29,3 +27,12 @@ cd pocket_tasks
 flutter pub get
 flutter pub run build_runner build
 flutter run
+
+## Getting Started
+- Tap the floating action button "+" to add a new task.
+- Type a title for the task and add the task content.
+- You can choose to add a future due date.
+- Tap "Save Task" when done.
+- To Edit a task, longpress the task to edit it.
+- To view a task full details, tap on the task.
+- To delete a task, select the task and tap the delete button at the top right corner of the screen.
