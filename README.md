@@ -10,9 +10,9 @@ Pocket Tasks is a simple Flutter task management app built with hive local stora
 - Clean and responsive UI
 
 ## Architecture
-- **Presentation Layer**: screens/, widgets/
-- **Business Logic**: providers/ with ChangeNotifier
-- **Data Layer**: Hive-backed model in data/models/
+- **Presentation Layer**: `screens/`, `widgets/`
+- **Business Logic**: `providers/` with `ChangeNotifier`
+- **Data Layer**: Hive-backed model in `data/models/`
 
 ## Prerequisites
 - Flutter 3.24.3
