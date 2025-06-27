@@ -40,3 +40,7 @@ https://github.com/user-attachments/assets/cd1287cc-e38c-4caf-be2e-50a27df161b9
 - Toggle between All, Active and Completed tasks from the home screen
 
 ## Also Check Widget tests files under "test"
+- Colour utils test
+- Date format test
+- home screen test
+- task detail test
