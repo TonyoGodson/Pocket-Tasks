@@ -22,11 +22,11 @@ Pocket Tasks is a simple Flutter task management app built with hive local stora
 https://github.com/user-attachments/assets/cd1287cc-e38c-4caf-be2e-50a27df161b9
 
 ### Install & Run
-git clone https://github.com/tonyogodson/pocket_tasks.git
-cd pocket_tasks
-flutter pub get
-flutter pub run build_runner build
-flutter run
+- git clone https://github.com/tonyogodson/pocket_tasks.git
+- cd pocket_tasks
+- flutter pub get
+- flutter pub run build_runner build
+- flutter run
 
 ## Getting Started
 - Tap the floating action button "+" to add a new task.
