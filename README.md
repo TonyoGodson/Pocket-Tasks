@@ -38,3 +38,5 @@ https://github.com/user-attachments/assets/cd1287cc-e38c-4caf-be2e-50a27df161b9
 - To delete a task, select the task and tap the delete button at the top right corner of the screen.
 - To sort tasks, tap the menu button at the top right corner of the home screen and choose sort type.
 - Toggle between All, Active and Completed tasks from the home screen
+
+##Also Check Widget tests files under "test"
